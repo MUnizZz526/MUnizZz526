@@ -2,6 +2,10 @@
 
 # Olá, eu sou o Cauã Ferreira Muniz! 👋
 
+<p align="center">
+  <img width="200" height="200" alt="octocat-1782937544012" src="https://github.com/user-attachments/assets/55f0d94b-c937-4f21-8f13-9434777fcb53" />
+</p>
+
 ### 🚀 Desenvolvedor Back-End & Aspirante a Cientista de Dados
 
 Sou um desenvolvedor focado em construir soluções robustas, escaláveis e eficientes. Apaixonado por lógica, arquitetura de software e resolução de problemas complexos, utilizo dados e código limpo para transformar desafios em linhas de código inteligentes e otimizadas.
