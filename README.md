@@ -21,6 +21,7 @@
 ###  Mariane Nails Studio
 
 Site institucional com painel administrativo desenvolvido para um estúdio de unhas.
+https://github.com/MUnizZz526/mariane-nails
 
 
 **Tecnologias:** HTML • CSS • JavaScript • Supabase • Vercel
