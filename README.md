@@ -16,12 +16,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## ⭐ Projeto em destaque
+## ⭐ Projetos em destaque
 
 ###  Mariane Nails Studio
 
 Site institucional com painel administrativo desenvolvido para um estúdio de unhas.
 https://github.com/MUnizZz526/mariane-nails
+
+### FIAPRESSA
+
+App acadêmico de nutrição e pedidos.
+
 
 
 **Tecnologias:** HTML • CSS • JavaScript • Supabase • Vercel
