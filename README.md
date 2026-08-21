@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, eu sou o Cauã Ferreira Muniz! 👋
+# Olá, eu sou o Cauã Ferreira Muniz! 
 
 <p align="center">
   <img width="200" height="200" alt="octocat-1782937544012" src="https://github.com/user-attachments/assets/55f0d94b-c937-4f21-8f13-9434777fcb53" />
@@ -22,18 +22,19 @@
 
 Site institucional com painel administrativo desenvolvido para um estúdio de unhas.
 
+
 **Tecnologias:** HTML • CSS • JavaScript • Supabase • Vercel
 
 ---
 
 ##  GitHub
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MUniZzz526&show_icons=true&theme=radical"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUniZzz526&layout=compact&theme=radical"/>
-</p>
+Mais Projetos
 
+Gostou deste projeto? Confira meus outros repositórios e acompanhe minha evolução como desenvolvedor.
+
+🔗 https://github.com/MUniZzz526?tab=repositories
 ##  Contato
 
 - 💼 LinkedIn: linkedin.com/in/seu-linkedin
-- 📧 Email: seuemail@email.com
+- 📧 Email: munizcaua88@gmail.com
