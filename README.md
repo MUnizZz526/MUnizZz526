@@ -26,6 +26,7 @@ https://github.com/MUnizZz526/mariane-nails
 ### FIAPRESSA
 
 App acadêmico de nutrição e pedidos.
+https://github.com/MUnizZz526/fiapressa
 
 
 
@@ -37,7 +38,7 @@ App acadêmico de nutrição e pedidos.
 
 Mais Projetos
 
-Gostou deste projeto? Confira meus outros repositórios e acompanhe minha evolução como desenvolvedor.
+Gostou destes projetos? Confira meus outros repositórios e acompanhe minha evolução como desenvolvedor.
 
 🔗 https://github.com/MUniZzz526?tab=repositories
 ##  Contato
