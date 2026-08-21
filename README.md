@@ -36,5 +36,5 @@ Gostou deste projeto? Confira meus outros repositórios e acompanhe minha evolu�
 🔗 https://github.com/MUniZzz526?tab=repositories
 ##  Contato
 
-- 💼 LinkedIn: linkedin.com/in/seu-linkedin
+- 💼 LinkedIn: https://www.linkedin.com/in/cau%C3%A3-muniz/
 - 📧 Email: munizcaua88@gmail.com
