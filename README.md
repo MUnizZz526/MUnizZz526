@@ -13,28 +13,28 @@
         <img 
             alt="Email" 
             title="Email para contato" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/Email-050505.svg?logo=mail&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17"
         />
     </a>
     <a href="https://wa.me/5511978494763">
         <img 
             alt="WhatsApp" 
             title="Contato via WhatsApp" 
-            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-050505.svg?logo=whatsapp&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17"
         />
     </a>
     <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=050505&style=for-the-badge&labelColor=0f0f17&logo=star&label=estrelas&logoColor=ff0055"
         />
     </a>
     <a href="https://github.com/MUnizZz526?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MUnizZz526?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/MUnizZz526?color=050505&labelColor=0f0f17&style=for-the-badge&logo=github&label=Seguidores&logoColor=ff0055"
         />
     </a>
 </p>
