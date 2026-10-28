@@ -3,13 +3,12 @@
 **`Estudante de ciência da computação`**
 
 
-
 <p align="left">
     <a href="mailto:munizcaua88@gmail.com">
         <img 
             alt="Email" 
             title="Email para contato" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
     <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers">
@@ -27,7 +26,6 @@
         />
     </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
