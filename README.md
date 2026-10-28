@@ -1,4 +1,4 @@
-# 💻 Cauã Muniz
+# 😨  Cauã Muniz
 
 <!-- GIF logo no começo -->
 <p align="left">
