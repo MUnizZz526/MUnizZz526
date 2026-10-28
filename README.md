@@ -25,6 +25,15 @@
             src="https://custom-icon-badges.demolab.com/github/followers/MUnizZz526?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+
+<a href="https://wa.me/5511978494763">
+    <img 
+        alt="WhatsApp" 
+        title="Fale comigo no WhatsApp" 
+        src="https://custom-icon-badges.demolab.com/badge/WhatsApp-123456789-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+</a>
+    
 </p>
 ---
 
