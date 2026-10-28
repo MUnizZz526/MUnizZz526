@@ -2,7 +2,7 @@
 
 <!-- GIF logo no começo -->
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="220px" alt="GIF Animado" />
+  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="350px" alt="GIF Animado" />
 </p>
 
 
