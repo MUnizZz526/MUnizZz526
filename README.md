@@ -1,4 +1,4 @@
-# 👩 Cauã Muniz
+# 💻 Cauã Muniz
 
 **`Estudante de ciência da computação`**
 
