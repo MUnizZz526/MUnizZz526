@@ -11,13 +11,13 @@
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+   <a href="https://github.com/MUnizZz526?tab=stars">
+    <img 
+        alt="Estrelas" 
+        title="Minhas estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=e3b341&labelColor=cca72a&style=for-the-badge&logo=star&label=estrelas"
+    />
+</a>
     <a href="https://github.com/MUnizZz526?tab=followers">
         <img 
             alt="Seguidores" 
