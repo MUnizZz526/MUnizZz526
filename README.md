@@ -2,10 +2,10 @@
 
 <!-- GIF logo no começo -->
 <p align="left">
-  <img 
-    src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"
+  <img
+    src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
     width="220"
-    alt="GIF Animado"
+    alt="GIF animado de programação"
   />
 </p>
 
