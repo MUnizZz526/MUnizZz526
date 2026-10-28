@@ -8,20 +8,22 @@
 
 **`Sou o Cauã, tenho 20 anos, sou de São Paulo e atualmente curso Ciência da Computação na FIAP como bolsista do ProUni. Sou apaixonado por tecnologia e focado em construir soluções eficientes, desenvolvendo projetos voltados para web, mobile e sistemas backend.`**
 
- <p align="left">
-  <a href="mailto:munizcaua88@gmail.com">
-    <img alt="Email" title="Email para contato" src="https://custom-icon-badges.demolab.com/badge/Email-050505.svg?logo=mail&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17" />
-  </a>&nbsp;
-  <a href="https://wa.me/5511978494763">
-    <img alt="WhatsApp" title="Contato via WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-050505.svg?logo=whatsapp&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17" />
-  </a>&nbsp;
-  <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=050505&style=for-the-badge&labelColor=0f0f17&logo=star&label=estrelas&logoColor=ff0055" />
-  </a>&nbsp;
-  <a href="https://github.com/MUnizZz526?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MUnizZz526?color=050505&labelColor=0f0f17&style=for-the-badge&logo=github&label=Seguidores&logoColor=ff0055" />
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="mailto:munizcaua88@gmail.com"><img alt="Email" title="Email para contato" src="https://custom-icon-badges.demolab.com/badge/Email-050505.svg?logo=mail&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17" /></a>
+    </td>
+    <td>
+      <a href="https://wa.me/5511978494763"><img alt="WhatsApp" title="Contato via WhatsApp" src="https://custom-icon-badges.demolab.com/badge/WhatsApp-050505.svg?logo=whatsapp&logoColor=00f0ff&style=for-the-badge&labelColor=0f0f17" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MUnizZz526?color=050505&style=for-the-badge&labelColor=0f0f17&logo=star&label=estrelas&logoColor=ff0055" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/MUnizZz526?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MUnizZz526?color=050505&labelColor=0f0f17&style=for-the-badge&logo=github&label=Seguidores&logoColor=ff0055" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
