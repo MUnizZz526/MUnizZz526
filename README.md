@@ -5,7 +5,7 @@
 
 
 <p align="left">
-    <a href="mailto:munizcaua88@gmail.com">Envie-me um e-mail">
+    <a href="mailto:munizcaua88@gmail.com">
         <img 
             alt="Email" 
             title="Email para contato" 
