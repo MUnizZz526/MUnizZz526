@@ -30,7 +30,7 @@
     <img 
         alt="WhatsApp" 
         title="Fale comigo no WhatsApp" 
-        src="https://custom-icon-badges.demolab.com/badge/WhatsApp-123456789-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white"
     />
 </a>
     
