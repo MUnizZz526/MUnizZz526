@@ -148,7 +148,7 @@
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" 
 />
 
 <br/>
