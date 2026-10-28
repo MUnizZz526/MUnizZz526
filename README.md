@@ -63,14 +63,6 @@
 />
 <img 
     align="left" 
-    alt="React Native"
-    title="React Native" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
@@ -111,11 +103,11 @@
 />
 <img 
     align="left" 
-    alt="PowerBI" 
+    alt="Power BI" 
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black&style=for-the-badge" 
 />
 
 <br/>
