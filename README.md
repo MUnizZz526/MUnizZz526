@@ -10,6 +10,13 @@
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&logoColor=white&style=for-the-badge"
         />
     </a>
+    <a href="https://wa.me/5511900000000">
+        <img 
+            alt="WhatsApp" 
+            title="Contato via WhatsApp" 
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white&style=for-the-badge"
+        />
+    </a>
     <a href="https://github.com/MUnizZz526?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
