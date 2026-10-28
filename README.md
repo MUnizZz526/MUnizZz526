@@ -1,6 +1,6 @@
 # 💻 Cauã Muniz
 
-**`Sou o Cauã, tenho 20 anos, sou de São Paulo e atualmente curso Ciência da Computação na FIAP como bolsista do ProUni. Sou apaixonado por tecnologia e focado em construir soluções eficientes, desenvolvendo projetos voltados para web, mobile e análise de dados.`**
+**`Sou o Cauã, tenho 20 anos, sou de São Paulo e atualmente curso Ciência da Computação na FIAP como bolsista do ProUni. Sou apaixonado por tecnologia e focado em construir soluções eficientes, desenvolvendo projetos voltados para web, mobile e sistemas backend.`**
 
 <p align="left">
     <a href="mailto:munizcaua88@gmail.com">
@@ -39,6 +39,22 @@
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -55,43 +71,35 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Spring" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React / React Native"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Oracle" 
+    title="Oracle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJS"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Arduino"
-    title="Arduino" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
     align="left" 
@@ -103,11 +111,11 @@
 />
 <img 
     align="left" 
-    alt="Power BI" 
-    title="Power BI"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black&style=for-the-badge" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <br/>
