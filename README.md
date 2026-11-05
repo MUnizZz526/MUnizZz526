@@ -50,17 +50,18 @@
 ---
 
 ### 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="center">
   <img
     alt="GitHub Stats"
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=MUnizZz526&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MUnizZz526&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
   <img
     alt="Top Langs"
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
 </p>
 
