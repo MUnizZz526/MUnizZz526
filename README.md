@@ -56,9 +56,14 @@
   <img
     alt="GitHub Stats"
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=MUnizZz526&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=MUnizZz526&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img
+    alt="Top Languages"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
     alt="Top Langs"
     width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
