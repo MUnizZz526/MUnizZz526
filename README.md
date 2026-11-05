@@ -50,7 +50,6 @@
 ---
 
 ### 📊 Estatísticas
-### 📊 Estatísticas
 
 <p align="center">
   <img
@@ -64,10 +63,6 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
-    alt="Top Langs"
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUnizZz526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-  />
 </p>
 
 <br clear="all" />
